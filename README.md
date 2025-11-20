@@ -1,2 +1,4 @@
-# Challange-CTF
-iseng aja hehe
+# Secret Archive
+Author: Autorun 
+
+Aduhh, Johny lupa password archive rahasianya, bisakah kamu membantunya untuk melihat isi archive rahasia itu?, tapi kocaknya dia hanya memberikan file hashnya doang bjirr :v
